@@ -8,19 +8,11 @@ https://github.com/guanylwangase/pHluorin.ijm
 
 Setup:
 1. MIJ plugin for ImageJ or FIJI is required.
-
 http://imagej.nih.gov/ij/ 
-
 http://bigwww.epfl.ch/sage/soft/mij/ 
-
-http://fiji.sc/ 
-
+http://fiji.sc/
 2. You need to mannually setup the directory for temporaty files and for result output.
-3. 
 -line 12 dir in 02-Macro/Spotfinder.ijm and line 13 diroutput in 02-Macro/CoordinateFinder.ijm 
-
 -[temppath] and [resultpath] in 01-Setup/Initialiser.m 
-
 [temppath] should be identical with dir and [resultpath] should be identical with diroutput 
-
 3. These scripts may not work correctly on ImageJ2-based version of FIJI later than "Fiji Life-Line version, 2013 July 15".
