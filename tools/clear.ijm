@@ -1,0 +1,1 @@
+run("Clear", "stack");run("Select None");
