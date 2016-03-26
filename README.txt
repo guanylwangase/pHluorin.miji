@@ -1,23 +1,13 @@
 # pHluorin.miji
 These scripts are made for quantification of pHluorin exocytosis movies.
-
-
 Note that these scripts are provided on an as is basis with no garantees or support. This is a work in progress, major changes and bugs are expected.
-
-
 Note that these scripts are intended for academic use only. You can redistribute it and/or modify it under the terms of the GNU General Public License as published bythe Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-
 
 This project is no longer under active development. pHluorin.ijm is a enhenced version of this project wrote with ImageJ Macro and don't need Matlab anymore.  
 
 https://github.com/guanylwangase/pHluorin.ijm
 
-
-
 Setup:
-
-
 1. MIJ plugin for ImageJ or FIJI is required.
 
 http://imagej.nih.gov/ij/ 
